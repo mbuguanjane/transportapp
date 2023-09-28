@@ -1,4 +1,4 @@
-import 'package:flutterdriverapp/model/usermodel.dart';
+import 'package:transportapp/model/usermodel.dart';
 
 class LoginUser {
   final int userid;

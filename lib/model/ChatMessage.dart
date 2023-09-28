@@ -1,4 +1,4 @@
-import 'package:flutterdriverapp/model/loginuser.dart';
+import 'package:transportapp/model/loginuser.dart';
 import 'package:flutter/cupertino.dart';
 
 class ChatMessage {
