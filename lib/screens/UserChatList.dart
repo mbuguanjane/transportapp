@@ -1,7 +1,7 @@
-import 'package:flutterdriverapp/model/loginuser.dart';
-import 'package:flutterdriverapp/model/usermodel.dart';
-import 'package:flutterdriverapp/screens/UserChatDetail.dart';
-import 'package:flutterdriverapp/screens/chatDetail.dart';
+import 'package:transportapp/model/loginuser.dart';
+import 'package:transportapp/model/usermodel.dart';
+import 'package:transportapp/screens/UserChatDetail.dart';
+import 'package:transportapp/screens/chatDetail.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_speed_dial/flutter_speed_dial.dart';
